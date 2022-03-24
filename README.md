@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning React-Native framework
 - 👯 I’m looking to collaborate on any open-source project
 - 🤔 I’m looking for help with my thesis presentation 
-- 💬 Ask me about any electronics-tech stuff 
+- 💬 Ask me about any electronics-tech stuff
+- 📬 Portfolio : https://scintillating-squirrel-2e983a.netlify.app/ 
 - ⚡ Fun fact: Um able to spend my whole life eating burger and chicken 😂 
 
